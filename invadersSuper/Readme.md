@@ -1,4 +1,4 @@
-Invaders game i made to teste some things
+Invaders game i made to test some things
 
 Left and right arrows to move and space to shoot. Hold space to super charge.
 
