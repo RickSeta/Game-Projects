@@ -2,7 +2,7 @@ import random
 vet = ["Auge ", "Nase ", "Mund ", "Kopf ", "Ohr ", "Busen ", "Rücken ", "Brust ", "Fuß ", "Bauch ", "Bein ", "Arm ", "Hals ", "Schulter ", "Finger ", "Haar ", "Knie ", "Hand "]
 tipos = [2,3,1,1,2,1,1,3,1,1,2,1,1,3,1,2,2,3]
 #der 1, das 2, die 3
-
+ 
 fim = 0
 descart = []
 
